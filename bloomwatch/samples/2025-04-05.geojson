@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.2401,
+          41.3111
+        ]
+      },
+      "properties": {
+        "id": "uz_tash_1",
+        "date": "2025-04-05",
+        "intensity": 0.8,
+        "species": "Prunus",
+        "confidence": 0.9,
+        "timeseries": [
+          {
+            "date": "2025-04-10",
+            "value": 0.2
+          },
+          {
+            "date": "2025-04-12",
+            "value": 0.5
+          },
+          {
+            "date": "2025-04-15",
+            "value": 0.8
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "id": "fr_paris_1",
+        "date": "2025-04-05",
+        "intensity": 0.9,
+        "species": "Magnolia",
+        "confidence": 0.95,
+        "timeseries": [
+          {
+            "date": "2025-03-20",
+            "value": 0.1
+          },
+          {
+            "date": "2025-03-25",
+            "value": 0.6
+          },
+          {
+            "date": "2025-03-28",
+            "value": 0.9
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194,
+          37.7749
+        ]
+      },
+      "properties": {
+        "id": "us_sf_1",
+        "date": "2025-04-05",
+        "intensity": 0.55,
+        "species": "Ceanothus",
+        "confidence": 0.7,
+        "timeseries": [
+          {
+            "date": "2025-04-01",
+            "value": 0.2
+          },
+          {
+            "date": "2025-04-03",
+            "value": 0.4
+          },
+          {
+            "date": "2025-04-05",
+            "value": 0.55
+          }
+        ]
+      }
+    }
+  ]
+}
